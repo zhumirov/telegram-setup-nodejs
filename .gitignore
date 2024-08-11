@@ -1,0 +1,81 @@
+# Extra files
+.git/
+src/utils/all_code.txt
+src/services/streamResponseExamples.txt
+
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory for other package managers like Yarn
+.pnp/
+.pnp.js
+
+# The coverage directory
+coverage/
+
+# macOS-generated files
+.DS_Store
+
+# Windows-generated files
+Thumbs.db
+ehthumbs.db
+
+# Optional npm cache directory
+.npm
+
+# ESLint cache
+eslintcache
+
+# Jest and Mocha test output
+coverage/
+!.nyc_output
+
+# Visual Studio Code directories
+.vscode/
+
+# WebStorm directories
+.idea/
+
+# Certificate and key files for SSL
+*.pem
+
+# Optional REPL history
+.node_repl_history
+
+# Android Studio
+*.iml
+
+# Logs
+logs/
+*.log
+
+# npm standalone lock file
+pnpm-lock.yaml
+
+# vscode workspace preferences
+.vscode/
+
+# WebStorm directories
+.idea/
+
+# JetBrains project files
+*.iml
+.idea/
+
+# Optional Jest coverage directory
+coverage/
+coverage-final.json
+
+# MongoDB data directory
+/data/db/
+
+# Local environment settings
+local.env
